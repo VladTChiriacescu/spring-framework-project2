@@ -1,6 +1,6 @@
 # Zuhlke Spring Framework Demos - Project 2
 
-## Description:
+## Description
 
 This Java project builds upon the Spring concepts used in 
 the repository https://github.com/VladTChiriacescu/spring-framework-project1
@@ -14,6 +14,7 @@ It contains (not an exhaustive list):
 5. Lazy bean initialization
 6. Adding post construct and pre destroy functionality
 
+## Note
 It has been built while following the Udemy Masterclass on Spring Framework
 and Spring Boot 3 (this project is not a git clone of the Masterclass sources).
 The Masterclass can be found here:
